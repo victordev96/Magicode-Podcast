@@ -27,13 +27,11 @@ E é isso, galera! Python, Postman e um pouquinho da mágica do backend para voc
 
 ## Música de Fundo Sugerida
 - Sunset Lofi (Lo-Fi Chill Beats)  
-- Digital Tech Style (Futuristic / Techno Chill)  
-- Ambient Cinematic Light (Ambiente mágico e envolvente)  
+ 
 
 ## Objetivo
 O repositório serve como registro do projeto para a disciplina, contendo:
 - Todos os prompts utilizados para gerar o áudio  
-- O episódio final do podcast  
 - Referências e informações sobre o projeto  
 
 ## Autor
