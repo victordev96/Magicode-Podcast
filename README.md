@@ -25,14 +25,6 @@ O repositório serve como registro do projeto para a disciplina, contendo:
 - Todos os prompts utilizados para gerar o áudio  
 - Referências e informações sobre o projeto  
 
-## Ouça o Podcast
-
-Clique no play abaixo para ouvir o episódio diretamente no GitHub:
-
-<audio controls>
-  <source src="magicode podcast.mp4" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
 
 ## Autor
 **Victor** — Criador e apresentador do podcast Magicode
